@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This repository contains all the code, output, and trained model weights for the **MAI645 project** completed by **Team 03**. Due to the large size of the files, all resources are hosted on Google Drive and linked below.
+This repository contains all the code, output, and trained model weights for the **MAI645 project** completed by **Team 03**. Due to the large size of the files, most large resources are hosted on Google Drive and linked below.
 
 ---
 
