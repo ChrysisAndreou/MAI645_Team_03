@@ -1,30 +1,39 @@
 # MAI645\_Team\_03
 
-## Overview
+## 📌 Overview
 
-This repository contains code and output related to the MAI645 project completed by Team 03. All associated files, including weights and results, are available via the Google Drive links below.
+This repository contains all the code, output, and trained model weights for the **MAI645 project** completed by **Team 03**. Due to the large size of the files, all resources are hosted on Google Drive and linked below.
 
-## Google Drive Links
+---
 
-### 🔗 Primary Project Files
+## 📁 Google Drive Links
 
-[Google Drive Folder 1](https://drive.google.com/drive/folders/1qNsZ1jETzibiupnLSW3orPf_AzkGtQ3A?usp=sharing)
+### 🔗 **Main Project Files**
 
-* This folder contains all code, output, and trained model weights.
-* A subfolder named `final weights` is included for quick access to the final models.
-* For ease of sharing, all relevant files were copied into a separate folder named `mai645_project_for_sharing`.
+[**Drive Folder 1**](https://drive.google.com/drive/folders/1qNsZ1jETzibiupnLSW3orPf_AzkGtQ3A?usp=sharing)
+
+* Contains the full set of code, output, and model weights.
+* A dedicated subfolder called **`final weights`** is included for easy access to the most important trained models.
+* For ease of sharing, all necessary files have also been copied into a separate folder named **`mai645_project_for_sharing`**.
 
 > ⚠️ **Important:**
-> File paths still point to their original (parent) directory. If you're using the shared folder, you must place its contents into the corresponding original directory in your own Drive structure for correct execution.
+> All file paths in the code reference their original locations in **`My Drive`**.
+> If you're using the `mai645_project_for_sharing` folder, **you must move its contents into `My Drive`** in your own Google Drive for the code to function correctly.
 
-### 🔗 Additional Files
+---
 
-[Google Drive Folder 2](https://drive.google.com/drive/folders/1oTZ4W_yMDA3_8ZB-_9wYI_OEWsU2mASB?usp=sharing)
+### 🔗 **Supplementary Files**
 
-* Contains supplementary data and output for reference.
+[**Drive Folder 2**](https://drive.google.com/drive/folders/1oTZ4W_yMDA3_8ZB-_9wYI_OEWsU2mASB?usp=sharing)
 
-## Grading Note
+* Contains additional data and outputs for reference.
 
-> 📝 **Important:**
-> In the grading folder, reconstructions have been **deliberately displaced** to make visual inspection easier.
+---
+
+## 📝 Grading Note to Instructor
+
+**Kindly Note:**
+The **reconstructed outputs have been deliberately displaced** to make visual inspection easier.
+This was done intentionally for clarity during evaluation — **please do not penalize this in the grading process.**
+
 
