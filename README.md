@@ -11,6 +11,7 @@ This repository contains all the code, output, and trained model weights for the
 ### 🔗 **Main Project Files**
 
 [**Drive Folder 1**](https://drive.google.com/drive/folders/1qNsZ1jETzibiupnLSW3orPf_AzkGtQ3A?usp=sharing)
+[**Drive Folder 2**](https://drive.google.com/drive/folders/1oTZ4W_yMDA3_8ZB-_9wYI_OEWsU2mASB?usp=sharing)
 
 * Contains the full set of code, output, and model weights.
 * A dedicated subfolder called **`final weights`** is included for easy access to the final trained models weights.
@@ -20,13 +21,6 @@ This repository contains all the code, output, and trained model weights for the
 > All file paths in the google colabs reference their original locations in **`My Drive`**.
 > If you're using the `mai645_project_for_sharing` folder, **you must move its contents into `My Drive`** in your own Google Drive for the code to function correctly.
 
----
-
-### 🔗 **Supplementary Files**
-
-[**Drive Folder 2**](https://drive.google.com/drive/folders/1oTZ4W_yMDA3_8ZB-_9wYI_OEWsU2mASB?usp=sharing)
-
-* Contains additional data and outputs for reference.
 
 ---
 
