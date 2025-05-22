@@ -12,7 +12,7 @@ This repository contains all the code, output, and trained model weights for the
 
 [**Drive Folder 1_mai645_project_for_sharing**](https://drive.google.com/drive/folders/1qNsZ1jETzibiupnLSW3orPf_AzkGtQ3A?usp=sharing)
 
-[**Drive Folder 2**](https://drive.google.com/drive/folders/1oTZ4W_yMDA3_8ZB-_9wYI_OEWsU2mASB?usp=sharing)
+[**Drive Folder 2_mai645_project_outputs**](https://drive.google.com/drive/folders/1oTZ4W_yMDA3_8ZB-_9wYI_OEWsU2mASB?usp=sharing)
 
 * Contains the full set of code, output, and model weights.
 * A dedicated subfolder called **`final weights`** is included for easy access to the final trained models weights.
