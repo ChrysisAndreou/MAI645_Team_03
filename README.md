@@ -14,7 +14,7 @@ This repository contains all the code, output, and trained model weights for the
 
 * Contains the full set of code, output, and model weights.
 * A dedicated subfolder called **`final weights`** is included for easy access to the final trained models weights.
-* For ease of sharing, all necessary files have also been copied into a separate folder named **`mai645_project_for_sharing`**.
+* For ease of sharing, all necessary files have been copied into the abovefolder named **`mai645_project_for_sharing`**.
 
 > ⚠️ **Important:**
 > All file paths in the code reference their original locations in **`My Drive`**.
