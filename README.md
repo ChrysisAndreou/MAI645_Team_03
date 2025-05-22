@@ -1,3 +1,6 @@
+To run the Colab notebooks in the `colab` folder, simply upload `project645.zip`. If you want to avoid preprocessing data, set up Google Drive as instructed below.
+
+
 ## 📌 Overview
 
 This repository contains all the code, output, and trained model weights for the **MAI645 project** completed by **Team 03**. Due to the large size of the files, most large resources are hosted on Google Drive and linked below.
