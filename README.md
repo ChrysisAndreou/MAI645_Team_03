@@ -1,4 +1,4 @@
-To run the Colab notebooks in the `colab` folder, simply upload `project645.zip`. If you want to avoid preprocessing data, set up Google Drive as instructed below.
+To run the Colab notebooks in the `colabs` folder, simply upload `project645.zip`. If you want to avoid preprocessing data, set up Google Drive as instructed below.
 
 
 ## 📌 Overview
