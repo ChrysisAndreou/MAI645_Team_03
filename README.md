@@ -10,7 +10,7 @@ This repository contains all the code, output, and trained model weights for the
 
 ### 🔗 **Main Project Files**
 
-[**Drive Folder 1**](https://drive.google.com/drive/folders/1qNsZ1jETzibiupnLSW3orPf_AzkGtQ3A?usp=sharing)
+[**Drive Folder 1_mai645_project_for_sharing**](https://drive.google.com/drive/folders/1qNsZ1jETzibiupnLSW3orPf_AzkGtQ3A?usp=sharing)
 
 [**Drive Folder 2**](https://drive.google.com/drive/folders/1oTZ4W_yMDA3_8ZB-_9wYI_OEWsU2mASB?usp=sharing)
 
