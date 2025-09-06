@@ -141,7 +141,7 @@ Once the model is trained, use a synthesis script to generate new motion sequenc
 *You will need to modify the script to point to the correct trained model weights (`.weight` file).*
 
 ### 4. Visualizing the Output
-The synthesized motion is saved as `.bvh` files. You can visualize these files using various 3D software packages like Blender, Maya, or MotionBuilder. For a quick and easy option, use an online BVH player such as the [Online 3D Viewer](http://lo-th.github.io/olympe/BVH_player.html).
+The synthesized motion is saved as `.bvh` files. You can visualize these files using various 3D software packages like Blender, Maya, or MotionBuilder. For a quick and easy option, use an online BVH player such as the [Online 3D Viewer]([http://lo-th.github.io/olympe/BVH_player.html](https://theorangeduck.com/media/uploads/BVHView/bvhview.html)).
 
 ## Pre-trained Models and Data
 
